@@ -1,3 +1,3 @@
 # Write your methods here
-def loop_message_five_times("message")
+def loop_message_five_times(array)
   
